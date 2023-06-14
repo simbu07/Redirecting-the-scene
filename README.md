@@ -1,5 +1,5 @@
-## Redirecting the scene
-
+## Ex-7 Redirecting the scene
+### Date: 5/6/2023
 ### Aim:
 To Redirecting the scene in the unity engine.
 
